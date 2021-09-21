@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"location":"2dsphere"},"name":"location_2dsphere","2dsphereIndexVersion":{"$numberInt":"3"},"background":true}],"uuid":"c5c3a787cfba4aee8e39040c8e307d97","collectionName":"labs"}
